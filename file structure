@@ -1,0 +1,19 @@
+medicine-ai-bot/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── ChatBox.js
+│   │   ├── ChatMessages.js
+│   │   ├── FileUploader.js
+│   │   ├── FileList.js
+│   │   ├── Header.js
+│   │   ├── Footer.js
+│   ├── context/
+│   │   └── ChatContext.js
+│   ├── styles/
+│   │   └── styles.css
+│   ├── App.js
+│   ├── index.js
+├── README.md
+└── package.json
