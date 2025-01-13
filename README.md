@@ -1,4 +1,4 @@
-# Medicine AI Bot
+# Vitalis AI Bot
 
 A responsive React.js application for a Medicine AI bot with the following features:
 - Chat interface with AI bot.
